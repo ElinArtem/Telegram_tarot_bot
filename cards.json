@@ -1,0 +1,314 @@
+[
+  {
+    "name": "THE FOOL",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/df1cae60-a1f2-4726-8f60-5f463d6e5f3e/thefool.jpg"
+  },
+  {
+    "name": "THE MAGICIAN",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/90f32f58-f402-4b13-a949-2a4eff3c5667/Picsart_22-05-17_01-05-30-660.jpg"
+  },
+  {
+    "name": "THE HIGH PRIESTESS",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/e423056e-a7ec-491e-8071-fe9abe67de80/Picsart_22-05-17_01-04-40-636.jpg"
+  },
+  {
+    "name": "THE EMPRESS",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/6d1f52f7-9f7c-4d04-a8c4-c9fe04085c45/Picsart_22-05-17_01-04-00-058.jpg"
+  },
+  {
+    "name": "THE EMPEROR",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/7a750aeb-4ae6-43b6-b1c3-0fcbdea35405/Picsart_22-05-17_01-03-17-436.jpg"
+  },
+  {
+    "name": "THE HIEROPHANT",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/916eb224-3583-4aad-ac82-3288a3ffe246/Picsart_22-05-17_01-02-46-755.jpg"
+  },
+  {
+    "name": "THE LOVERS",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/b7c1f87a-8d62-458c-bc1c-7a1dab732d0c/Picsart_22-05-17_01-01-55-228.jpg"
+  },
+  {
+    "name": "THE CHARIOT",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/e1a56a67-fe7c-4a81-bd01-f5689b3deed4/Picsart_22-05-17_01-00-55-244.jpg"
+  },
+  {
+    "name": "STRENGTH",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/f605187c-a164-41a8-a507-5be207100dfa/Picsart_22-05-17_00-59-49-885.jpg"
+  },
+  {
+    "name": "THE HERMIT",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1a9ca78c-a52a-4bda-b725-45fcd05e3d37/Picsart_22-05-17_00-59-20-808.jpg"
+  },
+  {
+    "name": "WHEEL OF FORTUNE",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/b2164acd-7d30-473c-ab0f-a87d345b3905/Picsart_22-05-17_00-58-53-403.jpg"
+  },
+  {
+    "name": "JUSTICE",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/a0674f4e-c9a9-421b-9492-39301d50cbcc/Picsart_22-05-17_00-58-16-442.jpg"
+  },
+  {
+    "name": "THE HANGED MAN",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/98370ae2-9310-4357-bce9-237dc26c493d/Picsart_22-05-17_00-57-23-440.jpg"
+  },
+  {
+    "name": "DEATH",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/60f459d5-b4a1-44b4-b6c1-24ae8e45424e/Picsart_22-05-17_00-56-47-780.jpg"
+  },
+  {
+    "name": "TEMPERANCE",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/aff880ed-134b-4ae6-b662-19c5287c2277/Picsart_22-05-17_00-55-50-639.jpg"
+  },
+  {
+    "name": "THE DEVIL",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/e7aaa67a-4e1e-4716-9e73-12427816561e/Picsart_22-05-17_00-55-13-612.jpg"
+  },
+  {
+    "name": "THE TOWER",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1b683ecd-03f6-47b4-83f5-9c8a869c6a43/Picsart_22-05-17_00-53-56-828.jpg"
+  },
+  {
+    "name": "THE STAR",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/2a9b744e-d86e-4346-bba0-2b68d465022f/Picsart_22-05-17_00-53-27-051.jpg"
+  },
+  {
+    "name": "THE MOON",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/6cdf3bb9-b729-4178-a02c-8cef5df09490/Picsart_22-05-17_00-53-00-831.jpg"
+  },
+  {
+    "name": "THE SUN",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/16616d12-f9f4-47eb-b668-0f3819001cc5/Picsart_22-05-17_00-52-25-337.jpg"
+  },
+  {
+    "name": "JUDGEMENT",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/93508053-b396-440a-b1d4-97bec5f1c8ec/Picsart_22-05-17_00-51-45-739.jpg"
+  },
+  {
+    "name": "THE WORLD",
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/9e205b70-7c17-4c3f-84ec-3b47ce333d63/Picsart_22-05-17_00-50-42-638.jpg"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237354464-ZULTUIFYDT0WCONWGQ9G/Picsart_22-05-17_00-44-09-343.jpg",
+    "name": "Ace of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237369871-2XBDNTQA5SS2T5JPR0GC/Picsart_22-05-17_00-49-55-039.jpg",
+    "name": "Two of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237381583-XEYCBX9LM287UKTDVAGQ/Picsart_22-05-17_00-49-25-490.jpg",
+    "name": "Three of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237395304-ZGJFZEJBAR5HS6FDFJ4L/Picsart_22-05-17_00-48-39-214.jpg",
+    "name": "Four of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237405504-A87JY3S3WCJ71KAVDPZG/Picsart_22-05-17_00-48-03-353.jpg",
+    "name": "Five of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237422405-ZQLTF0NYLK9WB7ISKO5X/Picsart_22-05-17_00-47-25-158.jpg",
+    "name": "Six of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237436784-O4DGQ700SX8RQC0QHUI9/Picsart_22-05-17_00-46-33-037.jpg",
+    "name": "Seven of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237483478-MFY3FYF8J6569ZNDWHX2/Picsart_22-05-17_00-45-59-771.jpg",
+    "name": "Eight of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237500248-12HN1HAEC0UB5P1PXYZW/Picsart_22-05-17_00-45-26-304.jpg",
+    "name": "Nine of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237515262-XQ0G9QLPKKKR14G7NAFL/Picsart_22-05-17_00-44-45-570.jpg",
+    "name": "Ten of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237534064-6LMRX91PXJGYQJ2WX1LA/Picsart_22-05-17_00-42-14-773.jpg",
+    "name": "Page of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237546053-HV668QCHGCETSYHM8QLA/Picsart_22-05-17_00-43-02-102.jpg",
+    "name": "Knight of Cups "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237562095-3MXM9BEHKGODDE8CYF1J/Picsart_22-05-17_00-41-39-291.jpg",
+    "name": "Queen of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657237574320-Z6Y11MEOJAF4EBO09T7N/Picsart_22-05-17_00-43-37-885.jpg",
+    "name": "King of Cups"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657216988866-HOQTCNBSLCXAP511GYGN/Picsart_22-05-17_00-27-24-033.jpg",
+    "name": "Ace of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217001933-ZQKQJM0HBJ7KJAOMETV5/Picsart_22-05-17_00-31-52-971.jpg",
+    "name": "Two of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217011606-J212QHXEA04P9DDKEN15/Picsart_22-05-17_00-31-19-644.jpg",
+    "name": "Three of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217025286-N382UA7BNIN195RTJTFB/Picsart_22-05-17_00-30-59-135.jpg",
+    "name": "Four of swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217037473-F2YFV4C5X0CTUS0AVUV2/Picsart_22-05-17_00-30-30-092.jpg",
+    "name": "Five of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217101874-Q3A171F9S1PU4TYPENWL/Picsart_22-05-17_00-29-57-297.jpg",
+    "name": "Six of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217116571-LNHDGWZTUEOFIIOZSAQA/Picsart_22-05-17_00-29-15-891.jpg",
+    "name": "Seven of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217134150-YWLJMPQY0CZWUK664G1R/Picsart_22-05-17_00-28-53-070.jpg",
+    "name": "Eight of swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217176508-4SIDA1OYA6W570XVDNR6/Picsart_22-05-17_00-28-26-599.jpg",
+    "name": "Nine of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217188016-IRBCZYN5AHVLQTK5YA5F/Picsart_22-05-17_00-28-02-251.jpg",
+    "name": "Ten of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217273846-7GPDYJ7F88FUX38LK4II/Picsart_22-05-17_00-20-25-263.jpg",
+    "name": "Page of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217284552-IWKT2C0F9GY0IUXQGW8L/Picsart_22-05-17_00-20-47-925.jpg",
+    "name": "Knight of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657217312662-99QSOL2LAXV080IEAT21/Picsart_22-05-17_00-19-52-210.jpg",
+    "name": "Queen of Swords"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657609770641-ULG52BCM95FIC0II5SKR/Picsart_22-05-17_00-21-15-198.jpg",
+    "name": "King of Swords "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227411627-X0N26N1QQT8J2I191MTN/Picsart_22-05-17_00-15-35-896.jpg",
+    "name": "Ace of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227427791-DFNYJTWL5CH0H1QCZ2TI/Picsart_22-05-17_00-19-28-219.jpg",
+    "name": "Two of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227437354-IHQTLSMS73ONV9SG6LSK/Picsart_22-05-17_00-19-05-474.jpg",
+    "name": "Three of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227447678-5S2IMOI9LOV30W5XTZBA/Picsart_22-05-17_00-18-42-591.jpg",
+    "name": "Four of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227464611-K5V45G4Q99KQVCF3IYSE/Picsart_22-05-17_00-18-09-242.jpg",
+    "name": "Five of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227481707-2N20YPBWWDGOYGP5AGK7/Picsart_22-05-17_00-17-46-009.jpg",
+    "name": "Six of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227497809-6S2CPNFJ9WT4STT2VBFF/Picsart_22-05-17_00-17-19-436.jpg",
+    "name": "Seven of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227562161-AHR7ZQ07PTUBE80D7HJX/Picsart_22-05-17_00-16-56-264.jpg",
+    "name": "Eight of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227573965-CD5BRYLI4OSNILZDCKI2/Picsart_22-05-17_00-16-32-492.jpg",
+    "name": "Nine of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227612884-1AVVLVIM87HK76AMDAWD/Picsart_22-05-17_00-16-08-370.jpg",
+    "name": "Ten of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227636416-6JHQFZ12U8MK30F35G3H/Picsart_22-05-17_00-12-28-004.jpg",
+    "name": "Page of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227654056-XD0GSLYBVFBR850G0I47/Picsart_22-05-17_00-13-47-762.jpg",
+    "name": "Knight of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227671713-V9U4J4QPXXJI4D8FKJYO/Picsart_22-05-17_00-11-42-746.jpg",
+    "name": "Queen of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657227688162-XJX79S0VYI4U4UR0AVA4/Picsart_22-05-17_00-14-43-659.jpg",
+    "name": "King of Wands"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414694191-Q4WNLMPM9C4QLR6QAZZ0/Picsart_22-05-17_00-34-12-792.jpg",
+    "name": "Ace of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414731259-UHQ4ATNPJL6YQOIX8Z3K/Picsart_22-05-17_00-41-08-345.jpg",
+    "name": "Two of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414755598-UDFWUMI5E9WMZ2TD4JG7/Picsart_22-05-17_00-40-30-250.jpg",
+    "name": "Three of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414790332-9RLNUFKK6K4IG6159FXF/Picsart_22-05-17_00-39-48-952.jpg",
+    "name": "Four of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414804252-R5QNMSV9JZSD8Q9XGJEW/Picsart_22-05-17_00-39-07-473.jpg",
+    "name": "Five of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414826786-7P0DH7EZ92R5HXWPT3LS/Picsart_22-05-17_00-37-15-301.jpg",
+    "name": "Six of Pentacles"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414873129-3WZDUSVEUT5B36HR7EUW/Picsart_22-05-17_00-36-39-073.jpg",
+    "name": "Seven of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414897406-G19T9AKS2AKLI70Q20D2/Picsart_22-05-17_00-36-02-534.jpg",
+    "name": "Eight of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414923309-NCL2NM5XLNTGX4XLFGLL/Picsart_22-05-17_00-35-29-899.jpg",
+    "name": "Nine of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657414942636-IBPPQFONX07MYPS4WWQA/Picsart_22-05-17_00-34-45-656.jpg",
+    "name": "Ten of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657415060363-V7IO67CLI3UM9GAOAJ7S/Picsart_22-05-17_00-32-47-907.jpg",
+    "name": "Page of Pentacles"
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657415073017-JWM7QLSZNQDVPFXR2KEM/Picsart_22-05-17_00-33-10-266.jpg",
+    "name": "Knight of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657415150158-VDCMT37E1DLKAZ7OZB1D/Picsart_22-05-17_00-32-22-780.jpg",
+    "name": "Queen of Pentacles "
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/6282048f3ddae806d695b4b8/1657415166149-FGS2NN90B0VHDMS31ZK4/Picsart_22-05-17_00-33-37-256.jpg",
+    "name": "King of Pentacles "
+  }
+]
