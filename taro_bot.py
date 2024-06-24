@@ -1,38 +1,8 @@
 import telebot
 import final.config as config
 from telebot import types
-from final.layout import create_layout
-from final.chat_gpt import deciphering
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+from layout import create_layout
+from chat_gpt import deciphering
 
 class TarotBot(telebot.TeleBot):
     def __init__(self, api: str) -> None:
