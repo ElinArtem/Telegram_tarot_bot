@@ -1,7 +1,7 @@
 from openai import OpenAI
 import json
 
-API_KEY = "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"
+API_KEY = "API key"
 
 
 def read_json(file):
